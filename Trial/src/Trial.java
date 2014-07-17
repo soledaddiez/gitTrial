@@ -3,7 +3,7 @@ public class Trial {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("aca tengo un cambio en my-future");
+		System.out.println("aca tengo un cambio en my-feature");
 	}
 
 }

@@ -6,7 +6,7 @@ public class Trial {
 		// TODO Auto-generated method stub
 		System.out.println("Sole Feature 07");
 		
-		System.out.println("I am a conflictaaaa");
+		System.out.println("I am a conflictaaaa I AM PULLING REQUIEST USING SOURCE TREE");
 		
 	}
 

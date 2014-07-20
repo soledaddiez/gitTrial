@@ -8,6 +8,9 @@ public class Trial {
 		
 		System.out.println("I am a conflictaaaa I AM PULLING REQUIEST USING SOURCE TREE");
 		
+		String a = "Esta es mi modificación para meter un code review acá.";
+		
+		System.out.println(a);
 	}
 
 }
